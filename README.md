@@ -1,10 +1,7 @@
-# SnesJs
+# JavascriptSNES
 A SNES emulator, in javascript for the browser.
 
 ## Note
-
-I don't think I will continue working on this Javascript emulator.
-
 Although it is a nice proof of concept, not being able to run at full speed (on my hardware) makes working on it quite annoying. I originally started it because my Javascript NES emulator ran full speed (on my hardware) quite easily, even though it it not really optimised at all. This made me think emulating the SNES full speed might be possible as well. This however does not seem to be the case.
 
 ## About
